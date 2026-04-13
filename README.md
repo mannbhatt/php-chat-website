@@ -1,8 +1,12 @@
-# 💬 Chetting – A Simple PHP Chat Application
+# Chetting (PHP Auth & Chat App) – A Simple PHP Chat Application
 
 **Chetting** is a basic yet functional web-based chat application developed using **PHP**, **MySQL**, **HTML**, **CSS**, and **Bootstrap**. It focuses on creating a user authentication system with the ability to register new users, log in, upload a profile picture, and securely handle user sessions.
 
 > This project was created as part of a learning exercise and demonstrates practical implementation of backend logic, session handling, and file upload features using PHP.
+
+---
+
+![App Screenshot](image.png)
 
 ---
 
